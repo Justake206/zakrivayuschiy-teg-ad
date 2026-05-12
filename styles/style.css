@@ -243,23 +243,23 @@
 }
 
 .post__image-blur{
-  filter: blur(5px);
+  filter: none;
 }
 
 .post__image-sepia{
-  filter: sepia(40%);
+  filter: none;
 }
 
 .post__image-invert{
-  filter: invert(70%);
+  filter: none;
 }
 
 .post__image-contrast{
-  filter: invert(30%);
+  filter: none;
 }
 
 .post__image-hue-rotate{
-  filter: hue-rotate(90deg);
+  filter: none;
 }
 
 /*Анимация сердца*/
